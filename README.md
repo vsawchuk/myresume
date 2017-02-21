@@ -35,7 +35,7 @@ _Planning Analyst - For-Profit Subsidiary_, January 2015-November 2015
 * Provided analysis of clinical data for use in ACO management using Verisk Analytics.
 * Used clinical data to identify patients for care management programs, and determine success based on readmission rates.
 
-###**Education**
+###**_Education_**
 ####**The College of William & Mary**
 Williamsburg, VA  
 Graduated May 2014  
