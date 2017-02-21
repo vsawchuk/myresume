@@ -1,5 +1,4 @@
-## Victoria T. Sawchuk  
-###vtsawchuk@gmail.com
+## Victoria T. Sawchuk - vtsawchuk@gmail.com
 
 ###**_Skills_**
 ####
