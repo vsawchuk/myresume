@@ -12,6 +12,11 @@
 
 ###**_Experience_**
 ####
+**Tribuo LLC**  
+_Co-Founder_, November 2017-Present  
+* Maintain accounting and records  
+* Contact potential clients and maintain external relationships
+
 **Liberty Mutual Insurance**  
 _Product Analyst_, March 2016-Present
 * Contribute to the Book Transfer team to analyze acquisition opportunities upwards of $100M.
