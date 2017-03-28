@@ -1,7 +1,7 @@
 ## Victoria T. Sawchuk - vtsawchuk@gmail.com
-####[LinkedIn](https://www.linkedin.com/in/victoriasawchuk/)
+#### [LinkedIn](https://www.linkedin.com/in/victoriasawchuk/)
 
-###**_Skills_**
+### **_Skills_**
 ####
 * Business analytics, strategic planning, and decision support.
 * Leading and communicating technical data to multi-disciplinary teams, including analysts, clinicians, academic researchers, administrators, and executives.
@@ -10,7 +10,7 @@
 * Experience with SQL (Microsoft SQL Server & SAS) and VBA
 * Limited experience with ASP, JavaScript, and HTML
 
-###**_Experience_**
+### **_Experience_**
 ####
 **Tribuo LLC**  
 _Co-Founder_, November 2017-Present  
@@ -40,8 +40,8 @@ _Planning Analyst - For-Profit Subsidiary_, January 2015-November 2015
 * Provided analysis of clinical data for use in ACO management using Verisk Analytics.
 * Used clinical data to identify patients for care management programs, and determine success based on readmission rates.
 
-###**_Education_**
-####**The College of William & Mary**
+### **_Education_**
+#### **The College of William & Mary**
 Williamsburg, VA  
 Graduated May 2014  
 _BBA in Accounting at Mason School of Business  
